@@ -8,3 +8,8 @@ Create a Digital Clock using Python
 <b>Task 2</b>
 <br>
 Create a Tic Tac Toe Game using Python
+<br>
+<br>
+<b>Task 3</b>
+<br>
+Create a Snake Game using Python
